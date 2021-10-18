@@ -17,7 +17,7 @@ Content Cell  | Content Cell
 |:------------- |:---------------:| -------------:|
 | col 3 is      | some wordy text |     **$1600** |
 | col 2 is      | centered        |         $12   |
-| zebra stripes | are neat        |        ~~$1~~ |
+| zebra stripes | are neat        |        ~~$1~~ 
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor.
 
